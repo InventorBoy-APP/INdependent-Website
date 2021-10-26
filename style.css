@@ -1,0 +1,50 @@
+body{
+    text-align:center;
+    background-color:aqua;
+    border-color: blue;
+}
+
+
+#header{
+    background-color:firebrick;
+    color:black;
+    font-family: 'Festive', cursive;
+}
+
+
+#bathroomimg{
+    width:300px;
+    height:300px;
+}
+
+
+#bedroomimg{
+    width:300px;
+    height:300px;
+}
+
+
+#kitchenimg{
+    width:300px;
+    height:300px;
+}
+
+
+#livingareaimg{
+    width:300px;
+    height:300px;
+}
+
+
+#credits{
+    position:fixed;
+    bottom:0;
+    line-height: 3;
+    text-shadow: 3px 3px 3px #808080; 
+    color:firebrick;
+    background-color:white;
+    width:100%;
+    font-family: 'Patrick Hand', cursive;
+    font-size:25px;
+
+}
